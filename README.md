@@ -12,11 +12,7 @@ A simple, modern login page built with **React**. It's a great starting point fo
 - **Customizable**: Change styles and layout to match your project branding.
 - **Error Handling**: Displays user-friendly error messages for invalid input.
 
----
 
-## 💻 Live Demo
-
-Check out the live demo here: [Demo Link](#)
 
 ---
 
