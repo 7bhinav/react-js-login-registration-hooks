@@ -23,7 +23,7 @@ Follow these steps to get the project up and running on your local machine:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/react-login-page.git
+    git clone https://github.com/7bhinav/react-js-login-registration-hooks.git
     ```
 
 2. **Navigate into the project directory:**
